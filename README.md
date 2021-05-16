@@ -16,8 +16,8 @@ The repo contains two notebooks, one used for regression problems and one for cl
 
 The following is an example of a fine-tuned BERT mode predict a car price prediction based on a text query:
 
-![plot](./query1.png)
+![plot](./query3.png)
 
 Interestingly, the model is able to learn that car prices decrease when mileage increase, while all other features stay the same.
 
-![plot](./query2.png)
+![plot](./query4.png)
